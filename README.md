@@ -21,9 +21,9 @@ npm install
 Collection Name: Node
 ```
 
-2. Start the server
+3. Start the server
 ```bash
 npm start
 ```
 
-3. Test http://localhost:3001 via any RestAPI client tool
+4. Test http://localhost:3001 via any RestAPI client tool
