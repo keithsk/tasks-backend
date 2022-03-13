@@ -16,6 +16,11 @@ cd <project-folder>
 npm install
 ```
 
+2. Create new **collection** in MongoDB. Note: **document** auto created during application running
+```bash
+Collection Name: Node
+```
+
 2. Start the server
 ```bash
 npm start
