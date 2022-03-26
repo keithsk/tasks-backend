@@ -1,6 +1,6 @@
 # Task management API (Back-End)
 
-Task management app - API platform to connect with database (MongoDB)
+Task management app - NodeJs API platform to connect with database (MongoDB)
 
 
 ## Prerequisites
